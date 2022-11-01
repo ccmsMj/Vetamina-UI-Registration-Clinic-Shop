@@ -1,0 +1,161 @@
+.App{
+  background-color: #edcccc;
+  
+  
+}
+.main1 {
+  text-align: center;
+  justify-content: center;
+  margin-left: 450px;
+  
+}
+.main2{
+  margin-left: 1020px;
+  margin-top: -390px;
+  font-family: 'Courier New';
+}
+.sub-main {
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 35%;
+}
+
+.logo{
+  display: flex;
+  margin-top: -200px;
+  margin-bottom: -250px;
+  margin-left: -50px;
+  width: 30%;
+  height: 30%;
+}
+
+.imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    width: 50px;
+    height: 50px;
+  }
+
+.vet{
+  height: 150px;
+  width: 150px;
+  padding-left: 320px;
+  margin-left: 1500px;
+  margin-top: 5px;
+  display: flex;
+ 
+}
+.register{
+  margin-right: -490px;
+}
+
+.head{
+  padding-top: 80px;
+  font-family: 'Courier New';
+  color: #7DCE13;
+  font-weight: bold;
+}
+
+.profile {
+  height: 100px;
+  width: 100px;
+  border-radius: 130px;
+} 
+
+input{
+    padding-top: 200;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    border-bottom: 2px solid #7DCE13;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin: 0 20px;
+}
+
+.email{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+}
+
+.name{
+    padding-left: 50px;
+    font-size: 20px;
+  
+}
+.second-input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+   
+}
+
+.check{
+  height: auto;
+  width: auto;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.third-input{
+  padding-top: 20px;
+  margin-right: 10px;
+ 
+}
+
+
+.icon{
+  padding: 10px;
+  padding-left: 1.5%;
+  position: absolute;
+  display: flex;
+  color: #A2B5BB;
+}
+
+.icon2{
+  padding: 10px;
+  padding-left: 1.4%;
+  position: absolute;
+  display: flex;
+  color: #A2B5BB;
+}
+
+
+button{
+    width: 370px;
+    height: 50px;
+    background-color: #7DCE13;
+    color: white;
+    font-size: 25px;
+    border: none;
+}
+.login-button{
+    padding-top: 25px;
+    margin-left: 775px;
+  
+}
+.radio{
+  display: flex;
+  padding-top: 80px;
+  font-family: 'Courier New';
+  color: #000000;
+  font-weight: bold;
+
+}
+.mayor{
+  font-family: 'Arial';
+  color: #4f5448;
+  margin-left: 20px;
+}
+
+
+a {
+     color: #7DCE13;
+ }
